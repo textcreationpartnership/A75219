@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1681. Astrological observations and predictions for the year of our Lord 1681 Wherein is briefly shewn the significations of the late comet, which was seen in December last, 1680. And what is signified by the eclipses and positions of the planets, in the figures of the four solar ingresses, &amp;c. And what sorrowful times are approaching to the world, and what eminent changes are like to happen in most countries (from the influences of the three conjunctions of Saturn and Jupiter in the fiery trigon, in 1682. and 1683.) Also monthly observations. For every month this present year. Briefly containing the most remarkable events that are likely to happen in some eminent citties in England, and in our neighbouring nations. By John Silvester.</title>
+            <author>Silvester, John, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75219</idno>
+            <idno type="STC">Wing A2387</idno>
+            <idno type="STC">ESTC R231775</idno>
+            <idno type="EEBO-CITATION">99897608</idno>
+            <idno type="PROQUEST">99897608</idno>
+            <idno type="VID">137223</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75219)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137223)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2505:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>1681. Astrological observations and predictions for the year of our Lord 1681 Wherein is briefly shewn the significations of the late comet, which was seen in December last, 1680. And what is signified by the eclipses and positions of the planets, in the figures of the four solar ingresses, &amp;c. And what sorrowful times are approaching to the world, and what eminent changes are like to happen in most countries (from the influences of the three conjunctions of Saturn and Jupiter in the fiery trigon, in 1682. and 1683.) Also monthly observations. For every month this present year. Briefly containing the most remarkable events that are likely to happen in some eminent citties in England, and in our neighbouring nations. By John Silvester.</title>
+                  <author>Silvester, John, 17th cent.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed [for L. Curtiss] for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Curtiss's name from Wing CD-ROM, 1996, which states that it is from the colophon.</note>
+                  <note>DFo copy, reel 2505, lacks pp. 3-6, and the colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Comets --  Early works to 1800.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137223:1"/>
+            <p>1681. Aſtrological OBSERVATIONS AND PREDICTIONS, For the Year of our Lord 1681.</p>
+            <p>WHEREIN Is briefly ſhewn the Significations of the late <hi>COMET,</hi> which was ſeen in <hi>December</hi> laſt, 1680. And what is ſignified by the Eclipſes and poſitions of the Planets, in the Figures of the four Solar Ingreſſes, <hi>&amp;c.</hi>
+            </p>
+            <p>AND What ſorrowful Times are approaching to the World, and what eminent Changes are like to happen in moſt Countries (from the Influences of the three Conjunctions of <hi>Saturn</hi> and <hi>Jupiter</hi> in the fiery Trigon, in 1682. and 1683.)</p>
+            <p>ALSO MONTHLY OBSERVATIONS.</p>
+            <p>For every Month this preſent Year.</p>
+            <p>Briefly containing the moſt Remarkable Events that are likely to happen in ſome eminent Citties in <hi>ENGLAND,</hi> and in our Neighbouring Nations.</p>
+            <p>By <hi>John Silveſter.</hi>
+            </p>
+            <p>LONDON, Printed for the Author, 1681.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:137223:2"/>
+            <pb facs="tcp:137223:2"/>
+            <head>TO THE READER.</head>
+            <p>I deſire the Reader to take Notice, that my <hi>Aſtrolo<g ref="char:EOLhyphen"/>gical Obſervations</hi> were by me, and many Friends of mine, expected to have been Printed, in an <hi>Al<g ref="char:EOLhyphen"/>manack</hi> of mine, which being ſent to <hi>London,</hi> I was unkindly dealt with, by ſome <hi>Stationer</hi> or <hi>Printer,</hi> by whom my Expectation was frustrated, and my Friends deceived, and my <hi>Almanack</hi> hindred from coming to the <hi>Preſs;</hi> and not only ſo, but ſome part of my <hi>Work</hi> was pickt out, and unkindly Printed and Publiſhed, in an <hi>Almanack,</hi> ſet forth in the Name of <hi>Richard Saunders:</hi> I know not why any ſhould be ſo ſpiteful to me (in my abſence from <hi>London</hi>) unleſs any were ſo, becauſe I laid open the Dangers of the Times, for the good and Preſervation of our King and Kingdom: I ſuppoſe I have already, and ſhall, or rather ſhould for the future, ſhoot as near to the Mark, as most more Emi<g ref="char:EOLhyphen"/>nent Artists: And many of my Friends, and Ac<g ref="char:EOLhyphen"/>quaintance
+<pb facs="tcp:137223:3"/>know, that I Wrote of the late great <hi>PLOT,</hi> and <hi>Treacherous Deſign,</hi> almost in plain Terms; and alſo of many eminent Matters, the next year following, which ſo happened accordingly: and having been hither<g ref="char:EOLhyphen"/>to very unkindly dealt with, and for the ſakes of many of my Friends, that expected to have ſeen my Work Publi<g ref="char:EOLhyphen"/>ſhed; I thought it not amiſs to accept of this Opportu<g ref="char:EOLhyphen"/>nity to publiſh my <hi>Aſtrological Obſervations,</hi> alone by it ſelf h<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ng it will be accepted, not only in the City of <hi>Briſtol,</hi> but alſo in many other reſpective places in <hi>England.</hi>
+            </p>
+            <closer>
+               <dateline>Briſtol
+<date>the 22th of <hi>December,</hi> 1680.</date>
+               </dateline>
+               <signed>John Silveſter.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="astrological_prognostications">
+            <pb n="1" facs="tcp:137223:3"/>
+            <head>Aſtrological OBSERVATIONS For the Year 1681.</head>
+            <div type="part">
+               <head>Of the <hi>Comet</hi> that was ſeen in <hi>December</hi> laſt.</head>
+               <p>THIS Comet (when I firſt ſaw it) ſeemed to ſhew it ſelf in the begin<g ref="char:EOLhyphen"/>ning of the ſecond Face of Capricorn, near the Sun and the Planet Mercury, and near the oppoſite place of Saturn, and in that part of Heaven, called the Houſe of War: but it was reported, That its Tayl was ſeen about a Fortnight before; if ſo, it may very well be ſup<g ref="char:EOLhyphen"/>poſed that it had its firſt beginning or Birth in the fiery ſign Sagitarius, becauſe of its ſwift motion. The Tayl of it, when I firſt ſaw it, was very long, reaching about ſixty Degrees and pointing Eaſtwardly. The Star or Comet it ſelf was very ſmall, ſeeming about the bigneſs of a fixed Star of the fourth Magnitude, or the Planet Mercury. The colour and com<g ref="char:EOLhyphen"/>plexion of it, I could not diſcern then, becauſe of the Miſts or thickneſs of the Air, but ſince it ſeemed to be rather pale than fiery or otherwiſe, that I rather judge it to be Saturnine, or more of the nature of Saturn, than any other Planet, and ſo more fit to cauſe the more evil effects.</p>
+               <p>If it firſt began in Sagitary (as probably it might) a ſign of the fiery Tri<g ref="char:EOLhyphen"/>plicity, it ſignifies terrible Warrs, fiery and bloody Actions, and the mo<g ref="char:EOLhyphen"/>tion of great Armies will begin thoſe ſad times that are approaching, and Denotes the ſuppreſſion of Great and Noble Men, Wiſe and Learned Men, and great Students; and this the rather, becauſe it appeared ſo near the Sun, and the Planet Mercury. And whereas it chiefly firſt ſhewed it ſelf to us, in that part of Heaven called the Houſe of War, it denotes the more terrible warrs and ſlaughters of great multitudes, but whereas it firſt chie<g ref="char:EOLhyphen"/>fly ſhewed it ſelf to us in Capricorn, it is not unlikely, but it will not only run through Aquary, but alſo through Piſces (and Aries; the Aſ<g ref="char:EOLhyphen"/>cendant of <hi>England</hi> and <hi>France,</hi>) and ſo through a Sign of every Tripli<g ref="char:EOLhyphen"/>city, and of the nature of every Element. If it ſo happen, it encrea<g ref="char:EOLhyphen"/>ſes
+<pb n="2" facs="tcp:137223:4"/>the Miſeries that are coming amongſt us: For when a Comet appears in an Earthy Sign, it denotes Barrenneſs through drought; in watery Signs drought, through abundance of Rain; in airy ſigns it denotes the Peſtilence, Seditions and mighty high Winds; In Fiery Signs, terrible Warrs and Slaugh<g ref="char:EOLhyphen"/>ters: and it is very likely, that before it be extinguiſhed, it will at leaſt runthrough a Sign of every Trigon, becauſe of its ſwift motion (which I judge cannot be leſs than 4 or 5 Degrees in a day) but ſo far as it hath already run, it certainly informs us of great Wars, Slaughters, the Cap<g ref="char:EOLhyphen"/>tivity or Death of Nobles and Great Perſons, and Wiſe men, and great Students, and perſecutions about Religion, (thus chiefly if it began in Sagitary, (as it is very probable it did) and further Scarcity, Robberies, the Peſtilence, and great Mortality, and many Calamities, that are ap<g ref="char:EOLhyphen"/>proacing to Viſit the Nations: all its ſignifications are not as yet fully known. Farther, this being a Comet of a very ſwift Motion, it denotes forreign Wars, and one Nation invading another: for when a Comet is immoveable, it rather ſignifies Seditions: and wherereas it hath already ſhewed it ſelf in the Houſes of War and Death, it the more confirms the a<g ref="char:EOLhyphen"/>foreſaid Judgment, That Wars and a great Slaughter is near and approach<g ref="char:EOLhyphen"/>ing: It may before it be extinguiſhed, yet appear in ſeveral other Houſes, partly becauſe of its ſwift motion, and partly becauſe it is likely to con<g ref="char:EOLhyphen"/>tinue a great while, becauſe of the ſtrong appearance as yet of its Rays and Beams by which a conjecture may be given, that it may appear as yet to us the ſpace of two Months, or till the latter end of <hi>February:</hi> For, as the Ancients have Obſerved, ſome Comets have appeared almoſt three Months, which they count is the longeſt time any Comet can ap<g ref="char:EOLhyphen"/>pear. A ſmall Comet, ſay Authors, will be ſoon extinguiſht, becauſe the matter whereof it is made, will be ſoon burnt, unleſs it be fed with new exhalations, as we know not but this may.</p>
+               <p>Comets chiefly ſhew their effects to thoſe parts to which they ſend out their Beams or Rays, and in thoſe Regions where they are ſeen; but more chiefly to thoſe places that are ſubject to the Sign or Signs wherein they appear. By the firſt Rule, it hath relation to <hi>England,</hi> and if it Tranſit the Sign Aries, as its likely to do, then it adds to our Miſeries, that it may be ſaid, Wo to <hi>England, France,</hi> and many other Regions, Cities and places of the Earth, and as it hath already appeared in Capricorn, the Aſcendant of the City of <hi>Oxford,</hi> it may be feared that City will be greatly in danger of the Peſtilence, and other Miſeries; and the worſe, becauſe Saturn is now in the oppoſite Sign; and if Capricorn belongs to <hi>Oxford,</hi> may not the Planet Mercury therein poſited, repreſent the great</p>
+               <gap reason="missing" extent="4 pages">
+                  <desc>〈4 pages missing〉</desc>
+               </gap>
+               <div type="section">
+                  <pb n="7" facs="tcp:137223:4"/>
+                  <head>Augusts <hi>Obſervations.</hi>
+                  </head>
+                  <p>GREAT Melancholy, trouble and diſcontent poſſeſſeth many Hearts; its probable ſome religious Controverſy may happen in the City of <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> more than many other places: Magiſtrates there, and in other places reſolute to diſturb ſome meeting or religious profeſſors: variances among Rulers and Men of Power, and among Magiſtrates, and probably in <hi>Briſtol:</hi> abundance of people dye this Month, Note on the 5th. day the Planet Saturn goes out of Cancer, into the fiery ſign Leo, about which time we may expect to ſee ſome unuſual ſights and Apparitions in the Air, which u<g ref="char:EOLhyphen"/>ſually happen when he goes from one ſign to another.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Septembers</hi> Obſervations.</head>
+                  <p>LET <hi>Briſtol</hi> beware of Fire and all other miſchiefs, and ſly doings: The Magiſtrates thereof I doubt will ſome way be ſlily affronted, and vext by ſome ſly Enemies there, that probably may cauſe Diviſions and Controver<g ref="char:EOLhyphen"/>ſies amongſt them. The ſecond day of this Month, at three in the morning, the Sun will ſuffer an Eclipſe, which denotes the Death of ſome great and very wiſe perſon or perſons is approaching, and in a few Months will end this Life: Let <hi>London</hi> alſo beware, for ſome Plot or miſchievous Deſigns, may now be feared: Rulers of Nations affronted by ſome ſlily, cauſing much Variance and Diviſions amongſt them. Many are now Impriſoned, a very ſickly Seaſon, abundance dye.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Octobers</hi> Obſervations.</head>
+                  <p>SLY Actions and ſly Enemies are ſtill to be feared, cauſing much trouble and vexations: variances amongſt high and low: preparations for War againſt the next year: abundance dye.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>Novembers</hi> Obſervations.</head>
+                  <p>MAgiſtrates Oppreſs ſome meetings or perſons profeſſing Religion: be<g ref="char:EOLhyphen"/>ware of your Servants, for they will be very much inclined to cheat their Maſters, now more than at other times: often variances between them: and Servants will be in danger of the Cudgel.</p>
+               </div>
+               <div type="section">
+                  <pb n="8" facs="tcp:137223:5"/>
+                  <head>
+                     <hi>Decembers</hi> Obſervations.</head>
+                  <p>VEry notable Contentions and Controverſies amongſt Kings, Princes, Nobles and Rulers of Nations and Kingdoms, ſome more than or<g ref="char:EOLhyphen"/>dinary ſtir; I wiſh there may not happen any Rebellion this Month againſt National Supreme Powers; God preſerve the Magiſtrates of the City of <hi>Briſtol</hi> in Peace and Unity this Month: great robberies on the Land and at Sea: take Notice of the variances and evill events that happen, about the 19 day of this Month; we cannot be too wary of the bloody-minded Papiſts. Thus the year for the moſt part is tending to great contentions or Wars, or preparations againſt the next year; for without doubt wo<g ref="char:EOLhyphen"/>ful times are approaching to the Earths Inhabitants, with Plagues, Ca<g ref="char:EOLhyphen"/>lamities, and great and remarkable Changes, in many or moſt Nations and Kingdoms in the World.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>SInce my Obſervations were ſent to the Preſs, before they were Publiſhed, I thought it the more ſatisfactory to inform the Reader, that the Comet is now (to our ſorrow) weakly appearing in ♈ the Aſcendant of <hi>England,</hi> (and <hi>France</hi>), therefore it may the more be fear<g ref="char:EOLhyphen"/>ed that <hi>Englands</hi> trouble and affliction is approaching; ♈ is a fiery Sign, and a Comet in a fi<g ref="char:EOLhyphen"/>ery Sign is the more apt to cauſe the Nations (ſubject to it) to be concerned with Wars: it is now appearing very weakly, but if it continue about a month longer (or till about the 10th. day of <hi>February,</hi> of which now there is ſome doubt) it is probable by that time it will Tran<g ref="char:EOLhyphen"/>ſite ♉, ♊, ♋, and ♌, (<hi>viz.</hi> the Aſcendants of <hi>Ireland, London, Scotland</hi> (<hi>Holland</hi> and <hi>Briſtol,</hi>) but it will ſignifie the leſs evil to thoſe places, becauſe it grows weaker and weaker, but it wofully threatens thoſe Nations, Cities, Towns, Villages, Places and Perſons that are under the Signs ♑ and ♓ becauſe it not only appeared powerful therein, but the Infortunes affli<g ref="char:EOLhyphen"/>cted thoſe Signs then by Oppoſition: many places in <hi>England</hi> may be under ♑ and ♓, though we have not the knowledge thereof from the experiences of antient Aſtrologers: Laſtly, whereas this Comet hath been already in a Sign of every Triplicity, by reaſon of its ſwift mo<g ref="char:EOLhyphen"/>tion it denotes the more varieties of evils, for a Comet in a Fiery Sign hath more power to cauſe Wars than in another Sign, and in an Earthy Sign, moſt power to cauſe Barrenneſs and Unfruitfulneſs than in another Sign. In ſhort, I fear a beſome of Deſtruction will ſhortly fol<g ref="char:EOLhyphen"/>low in many Nations, partly by the Peſtilence, and partly by War, if not alſo by a Famine or great ſcarcity, if humility of heart and ſpeedy Repentance do not either divert it, or preſerve us from it, <hi>Libera nos Domine ſi ſancta ſit tua voluntas.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>Swift Comets and Saturnine ſignify</l>
+                  <l>Wars, Plague, Deſtruction, Woes and Scarcity:</l>
+                  <l>Th' infected Air oft kills the Fowls that fly,</l>
+                  <l>The Earths and Waters, Animals will dye.</l>
+                  <l>Tho' man knows part, th' Omniſcient God knows all</l>
+                  <l>Thoſe ſad Contingents, that will man befall:</l>
+               </lg>
+               <lg>
+                  <l>Oh God, thou giv'ſt us ſome foreſight, that we.</l>
+                  <l>With ſpeed repent, and turn from Sin to Thee.</l>
+                  <l>Effects below, proceed from Cauſe above,</l>
+                  <l>From Stars that by thy Bleſſed Order move,</l>
+                  <l>From Comets and ſtrange Viſions in the Air,</l>
+                  <l>Which we Spectators on the Earth admire.</l>
+               </lg>
+            </q>
+            <closer>
+               <dateline>Briſtol
+<date>the 8th. of <hi>January,</hi> 1680.</date>
+               </dateline>
+               <signed>John Silvester.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
